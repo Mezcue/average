@@ -1,0 +1,10 @@
+h1 {
+    font-size: 100px;
+}
+
+div {
+    border: 2px bold black;
+    background-color: pink;
+    display: inline-block;
+    text-align: left;
+}
