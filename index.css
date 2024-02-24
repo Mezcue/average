@@ -7,3 +7,6 @@ div {
     background-color: pink;
     display: inline-block;
 }
+img {
+    margin: auto;
+}
